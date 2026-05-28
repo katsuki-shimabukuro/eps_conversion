@@ -15,3 +15,9 @@ jpg画像ファイルをA4サイズに6枚ずつ添付して出力するコー�
 
 ## img_to_pdf.pyの実行方法  
 `python3 img_to_pdf.py フォルダ名`  
+
+# pdf Compression  
+pdfを圧縮して出力するコード  
+
+## pdf_Compression.pyの実行方法
+`python3 pdf_Compression.py <対象フォルダパス>`  
