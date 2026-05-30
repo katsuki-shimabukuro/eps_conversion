@@ -21,3 +21,11 @@ pdfを圧縮して出力するコード
 
 ## pdf_Compression.pyの実行方法
 `python3 pdf_Compression.py <対象フォルダパス>`  
+
+# pdf split
+pdfを分割するコード
+
+## pdf_split.pyの実行方法
+`python3 pdf_split.py`
+対象フォルダを聞かれるので、pdfファイルのあるフォルダを指定。  
+このとき、フォルダの中にはpdfは1つであること。2つ以上はできるか不明。
